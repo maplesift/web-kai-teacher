@@ -14,3 +14,9 @@ label {
 textarea {
     color: silver;
 }
+
+body {
+    background-image: url("./03-02.jpg");
+    background-attachment: fixed;
+    background-size: 1280px;
+}
